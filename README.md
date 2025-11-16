@@ -33,5 +33,4 @@
 download repository: git clone https://github.com/Mubarok982/UN_Checker 
 masukan file followers_1.html dan following.html
 download dependency: !pip install beautifulsoup4
-compile kode 
-
+compile kode dan tunggu hasilnya
